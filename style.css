@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    background-size: 50%;
+     background-repeat:no-repeat ;
+
+}
+image{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.caixa-central{
+    background-color: rgb(32, 134, 207);
+    padding: 30px;
+    box-shadow: 04px 10px rgba(0,0,0,0.1);
+}
